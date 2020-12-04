@@ -9,8 +9,8 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot(1).png)
-![Example screenshot](./img/screenshot(2).png)
+![Example screenshot](./img/screenshot-1.png)
+![Example screenshot](./img/screenshot-2.png)
 
 ## Technologies
 * Python == 3.8
