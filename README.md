@@ -1,4 +1,4 @@
-# Dashboard On FIFA World Cup Dataset 
+# Dashboard and EDA On FIFA World Cup Dataset 
 > This project consists of EDA on FIFA World Cup dataset which is shown in a dashboard built using Plotly and Flask in python.
 
 
