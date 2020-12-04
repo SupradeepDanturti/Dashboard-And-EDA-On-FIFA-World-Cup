@@ -24,5 +24,4 @@
 
 
 ## Inspiration
-This app is inspired by  **Hackers and Slackers** (For the Flask dashboard)
-and Android app tutorial by [@hackersandslackers](https://hackersandslackers.com/plotly-dash-with-flask/)
+This app is inspired by  **Hackers and Slackers** (For the Flask dashboard). [@hackersandslackers](https://hackersandslackers.com/plotly-dash-with-flask/)
