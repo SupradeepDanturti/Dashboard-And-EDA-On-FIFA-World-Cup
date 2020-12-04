@@ -9,9 +9,8 @@
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot-1.png)
-![Example screenshot](./img/Screenshot -2.png)
-
+![screenshot-1](./img/Screenshot-1.png)
+![screenshot-2](./img/Screenshot -2.png)
 ## Technologies
 * Python == 3.8
 * Dash == 1.14.0
