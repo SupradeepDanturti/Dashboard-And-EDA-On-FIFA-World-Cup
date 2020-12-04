@@ -9,8 +9,13 @@
 
 
 ## Screenshots
-![screenshot-1](./img/Screenshot-1.png)
-![screenshot-2](./img/Screenshot -2.png)
+<p align="center">
+  <b>![screenshot-1](./img/Screenshot-1.png)</b><br>
+  <b>Page-1</b>
+  <b>![screenshot-2](./img/Screenshot-2.png)</b>
+  <b>Page-2</b>
+</p>
+
 ## Technologies
 * Python == 3.8
 * Dash == 1.14.0
